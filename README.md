@@ -1,6 +1,6 @@
 # Boxes
 
-Practicing React.js.
+Practicing React
 
 ## Technologies used
 
